@@ -77,6 +77,7 @@ flashdata search "battery recycling research" --num 5
 | --- | --- |
 | Python 脚本、Notebook 或数据流水线 | [Python SDK](https://github.com/flashdatadev/flashdata-python) |
 | 使用 Python 下载 YouTube 视频、音频、片段或批量交付媒体 | [YouTube 视频下载 API 工具包](https://github.com/flashdatadev/youtube-video-download-api) |
+| 按 ID 文件批量下载视频，跟踪进度、导出交付清单并单独重试失败项 | [Python 批量视频下载工具](https://github.com/flashdatadev/bulk-video-download) |
 | Node.js 应用或服务 | [TypeScript / JavaScript SDK](https://github.com/flashdatadev/flashdata-typescript) |
 | Go 服务或后台任务 | [Go SDK](https://github.com/flashdatadev/flashdata-go) |
 | Shell 脚本或命令行批量任务 | [CLI](https://github.com/flashdatadev/flashdata-cli) |

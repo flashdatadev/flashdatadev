@@ -77,6 +77,7 @@ Paste your key at the hidden prompt. See the [installation guide](https://github
 | --- | --- |
 | A Python script, notebook or data pipeline | [Python SDK](https://github.com/flashdatadev/flashdata-python) |
 | YouTube video/audio downloads, clips or bulk media delivery in Python | [YouTube Video Download API Toolkit](https://github.com/flashdatadev/youtube-video-download-api) |
+| Bulk video downloads from an ID file, with progress, delivery inventories and failed-only retries | [Bulk Video Download with Python](https://github.com/flashdatadev/bulk-video-download) |
 | A Node.js application or service | [TypeScript / JavaScript SDK](https://github.com/flashdatadev/flashdata-typescript) |
 | A Go service or worker | [Go SDK](https://github.com/flashdatadev/flashdata-go) |
 | A shell script or a bulk workflow from your terminal | [CLI](https://github.com/flashdatadev/flashdata-cli) |
